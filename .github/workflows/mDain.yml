@@ -1,4 +1,4 @@
-name: RDPS
+name: RDPSS
 
 on:
   workflow_dispatch:
